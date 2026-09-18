@@ -1,0 +1,5 @@
+bokeh>=3.5
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+xyzservices>=2023.10
